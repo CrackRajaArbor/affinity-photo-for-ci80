@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Affinity Photo for macOS automation with secure Automation for Affinity Photo for macOS - plugin support and export to SVG. Featuring plugin support and export to
 
 
 
